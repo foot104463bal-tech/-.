@@ -1,0 +1,15 @@
+# .gitignore
+
+# Local server binaries & temporary downloads
+server/
+
+# Dynamic database credentials
+config/db_config.php
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Temporary logs & uploads
+*.log
+*.tmp
